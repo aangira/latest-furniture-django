@@ -1,0 +1,9 @@
+<!-- Creating a new branch -->
+git checkout -b branchname
+
+PULL TO GET CHANGES LOCALLY
+git pull
+
+git add .
+git commit -m "made changes in the about page"
+git push -u origin branchname
